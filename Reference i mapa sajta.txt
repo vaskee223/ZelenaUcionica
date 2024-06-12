@@ -1,0 +1,31 @@
+Mapa sajta
+Reference:
+Web sajtovi koji su korišćeni za izradu contenta sajta:
+britannica.com
+iea.org
+nationalgeographic.com
+
+Web sajtovi koji su korišćeni za preuzimanje slika:
+shutterstock.com
+pexels.com
+
+Web sajtovi koji su korišćeni za 
+Korišćeni template: Default page (Blank)
+
+Boje korišćene za izradu web sajta generisane sa:
+materialpalette.com
+
+
+Mapa sajta:
+Stranice:
+Glavna
+Novosti (./novosti)
+O nama (./o_nama)
+Kontakt  (./kontakt)
+Usluge  (./usluge)
+
+Postovi:
+Hidroenergija (./hidroenergija)
+Solarna energija (./solarna_energija)
+Geotermalna energija (./geotermalna_energija)
+Energija vetra (./energija_vetra)
